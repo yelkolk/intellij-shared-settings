@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="idea.plugin.protoeditor" />
+        <option value="aws.toolkit" />
+        <option value="cucumber-java" />
+      </list>
+    </option>
+  </component>
+</application>

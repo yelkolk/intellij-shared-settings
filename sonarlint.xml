@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.support.eks.lookiero.tech/" />
+          <token>df9fdfcfdf9ddf9bdf9bdfcfdfc9dfccdf9adfc9df9fdf92df9edfc9dfccdfc8dfccdf9ddfccdf99df9fdf9cdf92df9cdfcfdf9fdf9edf9fdf9fdf9edfcedf9cdfcbdf99dfc9df9fdf9adf9adf9adf9e</token>
+          <option name="name" value="lookiero-sonar" />
+          <disableNotifications>true</disableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
