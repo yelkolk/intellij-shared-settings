@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Java Inspection" />
+  <option name="myName" value="Lookiero Inspection" />
   <inspection_tool class="AbcMetric" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractClassName" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractClassWithPublicConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
